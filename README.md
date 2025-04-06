@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Nova360/Four-card-feature-section)
-- Live Site URL: [Add live site URL here](https://nova360.github.io/Four-card-feature-section/)
+- Solution URL: [Solution URL](https://github.com/Nova360/Four-card-feature-section)
+- Live Site URL: [Live site URL](https://nova360.github.io/Four-card-feature-section/)
 
 
 ### Built with
